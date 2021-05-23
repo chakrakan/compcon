@@ -1,7 +1,7 @@
 # Compcon
 
 <p align="center">
-  <a href="https://github.com/chakrakan/compcon"><img src="https://github.com/chakrakan/compcon/blob/main/public/logo.PNG" width="400" alt="Compcon logo" /></a>
+  <a href="https://github.com/chakrakan/compcon"><img src="https://github.com/chakrakan/compcon/blob/main/public/logo.png" width="400" alt="Compcon logo" /></a>
   <h3 align="center">Compcon</h3>
 </p>
 
