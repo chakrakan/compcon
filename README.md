@@ -1,8 +1,7 @@
 # Compcon
 
 <p align="center">
-  <a href="https://github.com/chakrakan/compcon"><img src="https://github.com/chakrakan/compcon/blob/main/public/logo.png" width="400" alt="Compcon logo" /></a>
-  <h3 align="center">Compcon</h3>
+  <a href="https://github.com/chakrakan/compcon"><img src="https://github.com/chakrakan/compcon/blob/main/public/logo.png" width="350" alt="Compcon logo" /></a>
 </p>
 
 Short for compare and contrast, this is a repo that helps you rapidly build a full-stack application using NextJS, TailwindCSS, and leverages Google-Sheets as a back-end/CMS.
