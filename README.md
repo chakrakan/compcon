@@ -8,14 +8,14 @@ Short for compare and contrast, this is a repo that helps you rapidly build a fu
 
 ## To-Do Roadmap
 
-[x] - Set up NextJS with TailwindCSS
-[] - Google Sheets Integration (WIP)
-    [x] - Read Data
-    [] - Create Data
-    [] - Update Data
-    [] - Delete Data
-[] - User Authentication/Authorization
-    [] - Let authenticated users perform CRUD
+- [x] Set up NextJS with TailwindCSS
+- [ ]  Google Sheets Integration (WIP)
+  - [x] Read Data
+  - [ ] Create Data
+  - [ ] Update Data
+  - [ ] Delete Data
+- [ ] User Authentication/Authorization
+  - [ ] Let authenticated users perform CRUD
 
 
 ## Getting Started
