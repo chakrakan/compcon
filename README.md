@@ -1,12 +1,12 @@
-# Compcon
-
 <p align="center">
   <a href="https://github.com/chakrakan/compcon"><img src="https://github.com/chakrakan/compcon/blob/main/public/logo.png" width="350" alt="Compcon logo" /></a>
 </p>
 
-Short for compare and contrast, this is a repo that helps you rapidly build a full-stack application using NextJS, TailwindCSS, and leverages Google-Sheets as a back-end/CMS.
+**Compcon:** Short for **comp**are and **con**trast, is a repo that helps you rapidly build a SSR application using NextJS, TailwindCSS, and Google-Sheets as a back-end/CMS.
 
 ## To-Do Roadmap
+
+You can star/watch the repo to follow the progress below, in the mean time, here's the deployed version with current features: https://compcon.vercel.app/
 
 - [x] Set up NextJS with TailwindCSS
 - [ ]  Google Sheets Integration (WIP)
