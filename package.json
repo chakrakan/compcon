@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "googleapis": "74.1.0",
-    "marked": "2.0.5",
+    "marked": "2.0.6",
     "next": "10.2.3",
     "react": "17.0.2",
     "react-dom": "17.0.2"
