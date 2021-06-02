@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "googleapis": "74.1.0",
+    "googleapis": "75.0.0",
     "marked": "2.0.6",
     "next": "10.2.3",
     "react": "17.0.2",
