@@ -1067,10 +1067,10 @@ googleapis-common@^5.0.2:
     url-template "^2.0.8"
     uuid "^8.0.0"
 
-googleapis@75.0.0:
-  version "75.0.0"
-  resolved "https://registry.npmjs.org/googleapis/-/googleapis-75.0.0.tgz"
-  integrity sha512-ZAZbWiBMw+ke5rzKRjNBSIJ+ab6wX/4HyHucIV1UHuLScNc8/rFCQsQg2VXEWBkdWUvsRxpB2AtTGtzcviJfwg==
+googleapis@78.0.0:
+  version "78.0.0"
+  resolved "https://registry.npmjs.org/googleapis/-/googleapis-78.0.0.tgz"
+  integrity sha512-Qx3WyG0kP1EHMc5z5lHDZyNg/u/1T9P0yudfp9y/ZrtQTpCLQM+7hH2Ca/C3Gnnn0qwN8hsn9E5Os03L46fldA==
   dependencies:
     google-auth-library "^7.0.2"
     googleapis-common "^5.0.2"
